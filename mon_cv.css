@@ -1,31 +1,21 @@
 body { 
-    background-color: cornflowerblue;
+    background-color: powderblue;
 }
-
-/* .flex-container {
-    display: flex;
-    justify-content: space-between;
-}
-
-.flex-container > div {
-    width: 100px;
-    margin: 10px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 30px;
-} */
 
 div .background {
     opacity: 0.2;
 }
 
-.titre2 > div {
+.address {
     text-align: left;
+    padding: 10px;
 }
 
-.titre1 > div {
+.titre {
     color: whitesmoke;
-    top: center;
+    top: ;
+    padding-left: 450px;
+    padding-bottom: -300px;
 }
 
 .photo > div {
@@ -41,7 +31,7 @@ div .background {
     align-items: center;
     justify-content: space-around;
     align-content: space-around;
-    background-color: cornflowerblue;
+    background-color: whitesmoke;
     width: 100%;
     height: 100%;
     border: 2px solid cadetblue;
@@ -57,6 +47,7 @@ div .background {
     flex: 1 50px;
     width: 50%;
     height: 50%;
+    text-align: center;
     background-color: cadetblue;
     border: 2px solid cornflowerblue;
     box-sizing: border-box;
@@ -67,7 +58,7 @@ div .background {
     flex-direction: row;
 }
 
-p {
+.photo {
     border-radius: 50px;
 }
 

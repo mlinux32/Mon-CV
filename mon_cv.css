@@ -1,5 +1,6 @@
 body { 
-    background-color: powderblue;
+    background: rgb(245,243,202);
+    background: linear-gradient(90deg, rgba(245,243,202,1) 0%, rgba(197,197,241,1) 35%, rgba(235,222,179,1) 100%); 
 }
 
 div .background {
@@ -8,6 +9,7 @@ div .background {
 
 .address {
     text-align: left;
+    color: whitesmoke;
     padding: 10px;
 }
 
@@ -48,7 +50,8 @@ div .background {
     width: 50%;
     height: 50%;
     text-align: center;
-    background-color: cadetblue;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
     border: 2px solid cornflowerblue;
     box-sizing: border-box;
     margin: 10px;

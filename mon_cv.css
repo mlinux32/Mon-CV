@@ -58,7 +58,18 @@ div .background {
     flex-direction: row;
 }
 
+/* p .bordure {
+    border: none;
+    border-radius: 50px;
+}
+*/
+
 .photo {
     border-radius: 50px;
 }
+
+.me, .atout, .competence, .langue, .informatique, .difor, .expro, .interet {
+    text-align: justify;
+}
+
 

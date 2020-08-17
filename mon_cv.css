@@ -1,3 +1,7 @@
+@media only screen and (max-width:800px) {
+    
+}
+
 body { 
     background: rgb(245,243,202);
     background: linear-gradient(90deg, rgba(245,243,202,1) 0%, rgba(197,197,241,1) 35%, rgba(235,222,179,1) 100%); 
